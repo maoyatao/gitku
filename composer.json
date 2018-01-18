@@ -1,0 +1,14 @@
+{
+    "name": "git/test1",
+    "description": "this is a test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "myt",
+            "email": "123@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
